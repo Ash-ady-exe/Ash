@@ -1,2 +1,2 @@
 # Ash
-Game Developer
+Smart Calculator v1.0
